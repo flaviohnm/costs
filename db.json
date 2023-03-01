@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Projeto 2023",
+      "budget": "50000",
+      "category": {
+        "id": "3",
+        "name": "Desenvolvimento"
+      },
+      "cost": 20000,
+      "services": [
+        {
+          "name": "Cabeamento",
+          "cost": "20000",
+          "description": "Montar Cabeamento",
+          "id": "0e561296-4b67-4461-bd89-dc94e7a52e46"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
